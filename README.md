@@ -34,11 +34,11 @@ How many living cells do you want to create? 3
 How many life cycles do you want to see? 3  
 
 Generation at the start:  
-. . . . .  
-. . . . .  
-. # # # .  
-. . . . .  
-. . . . .  
+.  .  .  .  .  
+.  .  .  .  .  
+.  #  #  #  .  
+.  .  .  .  .  
+.  .  .  .  .  
 
 Generation 1:  
 . . . . .  
