@@ -13,7 +13,7 @@ The game simulates the evolution of cells on a grid according to simple rules:
 - 📐 Create a square grid of any size entered by user  
 - 🎲 Randomly generate a specified number of living cells  
 - ⏩ Simulate multiple generations with automatic display  
-- 🖤 Simple console visualization  
+- 🖤 Simple console visualization with short delay  
 - 🔄 Torus topology: edge cells interact with opposite edges  
 
 ---------------------------------------------------------------------
@@ -34,11 +34,11 @@ How many living cells do you want to create? 3
 How many life cycles do you want to see? 3  
 
 Generation at the start:  
-.  .  .  .  .  
-.  .  .  .  .  
-.  #  #  #  .  
-.  .  .  .  .  
-.  .  .  .  .  
+. . . . .  
+. . . . .  
+. # # # .  
+. . . . .  
+. . . . .  
 
 Generation 1:  
 . . . . .  
